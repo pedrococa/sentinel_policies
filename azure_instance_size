@@ -16,16 +16,11 @@ allowed_vm_sizes = [
   "Standard_D1_V2",
   "Standard_D2_v2",
   "Standard_D2_V2",
-  "Standard_DS1_v2",
-  "Standard_DS1_V2",
-  "Standard_DS2_v2",
-  "Standard_DS2_V2",
   "Standard_A1",
   "Standard_A2",
   "Standard_D1",
   "Standard_D2",
-  "Standard_DS2_V3",
-  "Standard_D4s_v3",
+  "Standard_B1s",
 ]
 
 vms = get_vms()
