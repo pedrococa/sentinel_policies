@@ -13,13 +13,9 @@ get_vms = func() {
 # since we have seen both used
 allowed_vm_sizes = [
   "Standard_D1_v2",
-  "Standard_D1_V2",
   "Standard_D2_v2",
-  "Standard_D2_V2",
   "Standard_A1",
   "Standard_A2",
-  "Standard_D1",
-  "Standard_D2",
   "Standard_B1s",
 ]
 
