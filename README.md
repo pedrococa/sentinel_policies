@@ -1,2 +1,3 @@
-# sentinel_policies
-Sentinel Policies for Azure, AWS and GCP
+# Sentinel Policies
+
+Sentinel Policies for Azure (Third Generation)
